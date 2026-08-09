@@ -52,3 +52,4 @@ linkedlist.prepend(30)
 linkedlist.prepend(20)
 linkedlist.prepend(10)
 linkedlist.print_list()  
+
